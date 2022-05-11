@@ -19,14 +19,16 @@ body {
     min-width: 1280px;
     margin: auto;
     align-items: center;
+    background-color: blanchedalmond
   }
 
   .tittle {
     border-bottom: 1px solid #187f76;
-    padding-left: 0;
+    
     font-size: 23px;
     font-weight: 300;
-    margin-top: 50px;
+    margin: 0px;
+    padding:50px 0px 0px ;
   }
   
   .header-p {
@@ -43,6 +45,7 @@ body {
     flex-wrap: wrap;
     padding: 0px;
     margin: 0px;
+    background-color: blanchedalmond;
     list-style: none;
   }
   .menu {
@@ -55,6 +58,7 @@ body {
     min-width: 1280px;
     margin: 0;
     text-decoration: none;
+    background-color: darkgrey
   }
 
   .menu-link {
@@ -94,6 +98,7 @@ body {
   .text {
     max-width: 1330px;
     min-width: 1280px;
+    background-color: blanchedalmond
   }
 
   .footer {
