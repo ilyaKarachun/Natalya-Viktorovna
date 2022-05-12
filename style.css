@@ -37,6 +37,7 @@ body {
 
   .header-link {
       margin: 0;
+      font-style: italic;
   }
   
   .flex-row {
