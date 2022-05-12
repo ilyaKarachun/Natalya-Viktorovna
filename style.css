@@ -71,9 +71,10 @@ body {
 
   .project {
       background-image: url(./image/nv.jpg);
-      width: 500px;
-      height: 600px;
+      width: 50vh;
+      height: 60vh;
       margin-right: 30px;
+      border-radius: 100%;
   }
   .flex-row {
     display: flex;
